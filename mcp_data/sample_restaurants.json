@@ -1,0 +1,335 @@
+{
+  "杭州": [
+    {
+      "restaurant_name": "楼外楼",
+      "restaurant_address": "杭州市西湖区孤山路30号",
+      "avg_price": "人均 150-200元",
+      "score": "4.5",
+      "food_list": "西湖醋鱼、东坡肉、龙井虾仁、叫化童鸡"
+    },
+    {
+      "restaurant_name": "知味观",
+      "restaurant_address": "杭州市上城区仁和路83号",
+      "avg_price": "人均 80-120元",
+      "score": "4.6",
+      "food_list": "小笼包、片儿川、猫耳朵、西湖醋鱼"
+    },
+    {
+      "restaurant_name": "外婆家",
+      "restaurant_address": "杭州市下城区武林广场1号杭州大厦B座8楼",
+      "avg_price": "人均 60-80元",
+      "score": "4.4",
+      "food_list": "麻婆豆腐、茶香鸡、外婆红烧肉、龙井虾仁"
+    },
+    {
+      "restaurant_name": "绿茶餐厅",
+      "restaurant_address": "杭州市下城区延安路258号湖滨银泰in77C区",
+      "avg_price": "人均 70-90元",
+      "score": "4.3",
+      "food_list": "绿茶烤鸡、面包诱惑、石锅鸡汤豆腐"
+    },
+    {
+      "restaurant_name": "新白鹿餐厅",
+      "restaurant_address": "杭州市下城区延安路609号七层",
+      "avg_price": "人均 50-70元",
+      "score": "4.5",
+      "food_list": "蛋黄鸡翅、糖醋排骨、冰淇淋烤布雷"
+    }
+  ],
+  "南京": [
+    {
+      "restaurant_name": "南京大牌档",
+      "restaurant_address": "南京市秦淮区夫子庙建康路106号",
+      "avg_price": "人均 80-100元",
+      "score": "4.6",
+      "food_list": "盐水鸭、美龄粥、天王烤鸭包、糖芋苗"
+    },
+    {
+      "restaurant_name": "回味鸭血粉丝",
+      "restaurant_address": "南京市秦淮区中山南路79号",
+      "avg_price": "人均 20-30元",
+      "score": "4.4",
+      "food_list": "鸭血粉丝汤、汤包、鸭油酥烧饼"
+    },
+    {
+      "restaurant_name": "韩复兴",
+      "restaurant_address": "南京市秦淮区中山南路1号",
+      "avg_price": "人均 50-80元",
+      "score": "4.7",
+      "food_list": "盐水鸭、鸭油酥烧饼、桂花鸭"
+    },
+    {
+      "restaurant_name": "绿柳居",
+      "restaurant_address": "南京市秦淮区太平南路248号",
+      "avg_price": "人均 60-80元",
+      "score": "4.5",
+      "food_list": "素烧鹅、牛肉锅贴、菜包、青团"
+    },
+    {
+      "restaurant_name": "马祥兴菜馆",
+      "restaurant_address": "南京市鼓楼区云南北路32号",
+      "avg_price": "人均 100-150元",
+      "score": "4.4",
+      "food_list": "松鼠鱼、美人肝、蛋烧卖、凤尾虾"
+    }
+  ],
+  "苏州": [
+    {
+      "restaurant_name": "松鹤楼",
+      "restaurant_address": "苏州市姑苏区观前街太监弄72号",
+      "avg_price": "人均 150-200元",
+      "score": "4.6",
+      "food_list": "松鼠桂鱼、响油鳝糊、清炒虾仁"
+    },
+    {
+      "restaurant_name": "得月楼",
+      "restaurant_address": "苏州市姑苏区观前街太监弄43号",
+      "avg_price": "人均 120-180元",
+      "score": "4.5",
+      "food_list": "松鼠桂鱼、得月童鸡、蜜汁火方"
+    },
+    {
+      "restaurant_name": "同得兴",
+      "restaurant_address": "苏州市姑苏区十全街624号",
+      "avg_price": "人均 30-50元",
+      "score": "4.7",
+      "food_list": "枫镇大肉面、焖肉面、爆鱼面"
+    },
+    {
+      "restaurant_name": "裕兴记",
+      "restaurant_address": "苏州市姑苏区西北街11号",
+      "avg_price": "人均 40-60元",
+      "score": "4.6",
+      "food_list": "三虾面、蟹黄面、两面黄"
+    },
+    {
+      "restaurant_name": "叶受和",
+      "restaurant_address": "苏州市姑苏区观前街75号",
+      "avg_price": "人均 30-50元",
+      "score": "4.4",
+      "food_list": "袜底酥、蟹壳黄、云片糕"
+    }
+  ],
+  "北京": [
+    {
+      "restaurant_name": "全聚德",
+      "restaurant_address": "北京市东城区前门大街30号",
+      "avg_price": "人均 200-300元",
+      "score": "4.5",
+      "food_list": "北京烤鸭、鸭架汤、芥末鸭掌"
+    },
+    {
+      "restaurant_name": "便宜坊",
+      "restaurant_address": "北京市东城区崇文门外大街16号",
+      "avg_price": "人均 150-200元",
+      "score": "4.6",
+      "food_list": "焖炉烤鸭、盐水鸭肝、火燎鸭心"
+    },
+    {
+      "restaurant_name": "大董",
+      "restaurant_address": "北京市朝阳区团结湖北口3号楼",
+      "avg_price": "人均 300-500元",
+      "score": "4.7",
+      "food_list": "酥不腻烤鸭、董氏烧海参、樱桃鹅肝"
+    },
+    {
+      "restaurant_name": "海碗居",
+      "restaurant_address": "北京市海淀区增光路11号",
+      "avg_price": "人均 60-80元",
+      "score": "4.4",
+      "food_list": "炸酱面、豆汁、焦圈、麻豆腐"
+    },
+    {
+      "restaurant_name": "护国寺小吃",
+      "restaurant_address": "北京市西城区护国寺大街93号",
+      "avg_price": "人均 30-50元",
+      "score": "4.3",
+      "food_list": "豆汁、焦圈、驴打滚、艾窝窝"
+    }
+  ],
+  "上海": [
+    {
+      "restaurant_name": "南翔馒头店",
+      "restaurant_address": "上海市黄浦区豫园路85号",
+      "avg_price": "人均 80-120元",
+      "score": "4.5",
+      "food_list": "蟹粉小笼、鲜肉小笼、虾肉小笼"
+    },
+    {
+      "restaurant_name": "小杨生煎",
+      "restaurant_address": "上海市黄浦区吴江路269号",
+      "avg_price": "人均 20-30元",
+      "score": "4.6",
+      "food_list": "生煎包、牛肉粉丝汤、小杨馄饨"
+    },
+    {
+      "restaurant_name": "鼎泰丰",
+      "restaurant_address": "上海市黄浦区南京西路1515号嘉里中心",
+      "avg_price": "人均 120-150元",
+      "score": "4.7",
+      "food_list": "蟹粉小笼、红油抄手、排骨蛋炒饭"
+    },
+    {
+      "restaurant_name": "上海老饭店",
+      "restaurant_address": "上海市黄浦区福佑路242号",
+      "avg_price": "人均 150-200元",
+      "score": "4.5",
+      "food_list": "八宝鸭、扣三丝、油爆虾、红烧肉"
+    },
+    {
+      "restaurant_name": "鲜得来",
+      "restaurant_address": "上海市黄浦区云南南路36号",
+      "avg_price": "人均 30-50元",
+      "score": "4.4",
+      "food_list": "排骨年糕、单档、双档"
+    }
+  ],
+  "成都": [
+    {
+      "restaurant_name": "小龙坎",
+      "restaurant_address": "成都市锦江区东大街188号时代华章2楼",
+      "avg_price": "人均 100-130元",
+      "score": "4.5",
+      "food_list": "毛肚、鸭肠、黄喉、麻辣牛肉"
+    },
+    {
+      "restaurant_name": "大龙燚",
+      "restaurant_address": "成都市锦江区红星路三段1号",
+      "avg_price": "人均 110-140元",
+      "score": "4.6",
+      "food_list": "鹅肠、毛肚、嫩牛肉、酥肉"
+    },
+    {
+      "restaurant_name": "陈麻婆豆腐",
+      "restaurant_address": "成都市青羊区西玉龙街197号",
+      "avg_price": "人均 60-80元",
+      "score": "4.7",
+      "food_list": "麻婆豆腐、夫妻肺片、回锅肉"
+    },
+    {
+      "restaurant_name": "夫妻肺片总店",
+      "restaurant_address": "成都市锦江区总府路23号",
+      "avg_price": "人均 50-70元",
+      "score": "4.6",
+      "food_list": "夫妻肺片、红油耳片、棒棒鸡"
+    },
+    {
+      "restaurant_name": "龙抄手总店",
+      "restaurant_address": "成都市锦江区春熙路南段6-8号",
+      "avg_price": "人均 40-60元",
+      "score": "4.4",
+      "food_list": "龙抄手、钟水饺、担担面、赖汤圆"
+    }
+  ],
+  "西安": [
+    {
+      "restaurant_name": "老孙家",
+      "restaurant_address": "西安市碑林区东关正街78号",
+      "avg_price": "人均 50-70元",
+      "score": "4.5",
+      "food_list": "羊肉泡馍、牛肉泡馍、小炒泡馍"
+    },
+    {
+      "restaurant_name": "同盛祥",
+      "restaurant_address": "西安市莲湖区西大街5号",
+      "avg_price": "人均 60-80元",
+      "score": "4.6",
+      "food_list": "羊肉泡馍、麻酱凉皮、腊牛肉夹馍"
+    },
+    {
+      "restaurant_name": "樊记腊汁肉",
+      "restaurant_address": "西安市碑林区竹笆市街53号",
+      "avg_price": "人均 20-30元",
+      "score": "4.7",
+      "food_list": "肉夹馍、腊汁肉、凉皮"
+    },
+    {
+      "restaurant_name": "魏家凉皮",
+      "restaurant_address": "西安市雁塔区长安中路38号",
+      "avg_price": "人均 15-25元",
+      "score": "4.4",
+      "food_list": "秘制凉皮、麻酱凉皮、肉夹馍"
+    },
+    {
+      "restaurant_name": "春发生",
+      "restaurant_address": "西安市碑林区南院门25号",
+      "avg_price": "人均 40-60元",
+      "score": "4.5",
+      "food_list": "葫芦头泡馍、梆梆肉、温拌肥肠"
+    }
+  ],
+  "厦门": [
+    {
+      "restaurant_name": "乌糖沙茶面",
+      "restaurant_address": "厦门市思明区民族路68号",
+      "avg_price": "人均 30-50元",
+      "score": "4.7",
+      "food_list": "沙茶面、鸭血、豆腐、鱿鱼"
+    },
+    {
+      "restaurant_name": "四里沙茶面",
+      "restaurant_address": "厦门市思明区湖滨四里14号",
+      "avg_price": "人均 25-40元",
+      "score": "4.6",
+      "food_list": "沙茶面、海蛎、虾仁、大肠"
+    },
+    {
+      "restaurant_name": "黄则和花生汤",
+      "restaurant_address": "厦门市思明区中山路22-24号",
+      "avg_price": "人均 20-30元",
+      "score": "4.5",
+      "food_list": "花生汤、沙茶面、海蛎煎、土笋冻"
+    },
+    {
+      "restaurant_name": "1980烧肉粽",
+      "restaurant_address": "厦门市思明区中山路353号",
+      "avg_price": "人均 25-40元",
+      "score": "4.6",
+      "food_list": "烧肉粽、扁食汤、拌面"
+    },
+    {
+      "restaurant_name": "莲欢海蛎煎",
+      "restaurant_address": "厦门市思明区局口街横巷4号",
+      "avg_price": "人均 20-35元",
+      "score": "4.5",
+      "food_list": "海蛎煎、春卷、土笋冻"
+    }
+  ],
+  "青岛": [
+    {
+      "restaurant_name": "船歌鱼水饺",
+      "restaurant_address": "青岛市市南区闽江路57号",
+      "avg_price": "人均 80-120元",
+      "score": "4.6",
+      "food_list": "鲅鱼水饺、墨鱼水饺、黄花鱼水饺"
+    },
+    {
+      "restaurant_name": "万和春",
+      "restaurant_address": "青岛市市南区台东八路66号",
+      "avg_price": "人均 30-50元",
+      "score": "4.5",
+      "food_list": "排骨米饭、砂锅排骨、酸菜排骨"
+    },
+    {
+      "restaurant_name": "开海",
+      "restaurant_address": "青岛市市南区新湛路2号",
+      "avg_price": "人均 150-200元",
+      "score": "4.7",
+      "food_list": "海鲜水饺、辣炒蛤蜊、油泼扇贝"
+    },
+    {
+      "restaurant_name": "劈柴院",
+      "restaurant_address": "青岛市市南区中山路商业圈",
+      "avg_price": "人均 40-60元",
+      "score": "4.3",
+      "food_list": "海菜凉粉、豆腐脑、锅贴、炸串"
+    },
+    {
+      "restaurant_name": "王姐烧烤",
+      "restaurant_address": "青岛市市南区中山路113号",
+      "avg_price": "人均 30-50元",
+      "score": "4.4",
+      "food_list": "烤鱿鱼、烤肉、烤鸡翅、烤馒头"
+    }
+  ]
+}
