@@ -31,7 +31,6 @@ TravelProject/
 ├── requirements.txt       # 依赖包列表
 ├── mcp_data/              # MCP 数据文件夹
 ├── prompts/               # 提示词模板
-├── test/                  # 测试文件
 └── logs/                  # 日志文件
 ```
 
@@ -40,7 +39,7 @@ TravelProject/
 ### 1. 克隆项目
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/calliope-lucky/TravelAgent.git
 cd TravelProject
 ```
 
